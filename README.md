@@ -14,17 +14,17 @@ Usage
 -----
 ### Keywords
 
-* **date**
+* **`date`**
 
-  `This returns the current date in 4 formats`:
+  This returns the current date in 4 formats:
   *  yyyyMMdd
   *  EEE MMM dd HH:mm:ss zzz yyyy
   *  MM/dd/yyyy
   *  yyyy-MM-dd
 
-* **date {query}**
+* **`date {query}`**
 
-  `This passes the query as arguments into date command`
+  This passes the query as arguments into date command`
 
 About
 -----
